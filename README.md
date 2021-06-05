@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning CSS and Python
 - 💞️ I’m looking to collaborate with @adityakrcodes
 - 📫 How to reach me 
+<br>
+
 [![Instagram Follow](https://img.shields.io/badge/IG:-@the_gamernikhil-black?style=flat-square&logo=instagram)](https://www.instagram.com/the_gamernikhil)
 
 <!---
