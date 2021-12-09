@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 <br>
 
-[![Instagram Follow](https://img.shields.io/badge/IG:-@the_gamernikhil-black?style=flat-square&logo=instagram)](https://www.instagram.com/the_gamernikhil)
+[![Instagram Follow](https://img.shields.io/badge/IG:-@nikhil_codes-black?style=flat-square&logo=instagram)](https://www.instagram.com/nikhil_codes)
 
 <!---
 Nikhil-H4WK/Nikhil-H4WK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
