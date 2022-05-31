@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nikhil..
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSS and Python
-- 💞️ I’m looking to collaborate with @adityakrcodes
 - 📫 How to reach me 
 <br>
 
