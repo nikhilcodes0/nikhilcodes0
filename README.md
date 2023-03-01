@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NikhilCodes22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NikhilCodes22" /></a></p><br><br><br><hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-h4wk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nikhil-h4wk" /></p><br><br><br><br><br><br><br><hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-h4wk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nikhil-h4wk" /></p><br><br><br><br><br><br><hr>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhil-h4wk&show_icons=true&theme=dark&locale=en" alt="nikhil-h4wk" /></p><br><br><br><br><br><br><br><hr>
 
