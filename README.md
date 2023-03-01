@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nikhil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikhil kumar" height="30" width="40" /></a>
+<a href="https://dev.to/@h4wk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikhil kumar" height="30" width="40" /></a>
 <a href="https://twitter.com/nikhil__codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhil__codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-408758202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_._h4wk_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._h4wk_._" height="30" width="40" /></a>
 </p>
 
