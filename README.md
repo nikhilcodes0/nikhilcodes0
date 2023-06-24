@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-h4wk&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-h4wk" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, C, Java**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [nikhilcodes.me](nikhilcodes.me)
 
