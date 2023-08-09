@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-h4wk&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-h4wk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-h4wk&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilcodes" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -23,8 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NikhilCodes22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NikhilCodes22" /></a></p><br><br><br><hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-h4wk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nikhil-h4wk" /></p><br><br><br><br><br><br><hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilcodes0&show_icons=true&theme=dark&locale=en&layout=compact" alt="nikhilcodes" /></p><br><br><br><br><br><br><hr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhil-h4wk&show_icons=true&theme=dark&locale=en" alt="nikhil-h4wk" /></p><br><br><br><br><br><br><br><hr>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes0&show_icons=true&theme=dark&locale=en" alt="nikhilcodes" /></p><br><br><br><br><br><br><br><hr>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-h4wk&theme=dark" alt="nikhil-h4wk" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilcodes0&theme=dark" alt="nikhilcodes" /></p>
