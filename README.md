@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on React websites!<br>👯 I’m looking to collaborate on Open Source Web Dev Projects <br>🌱 I’m currently learning ReactJS, NodeJS, MongoDB<br>💬 Ask me about Web Development<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug<br>👨‍💻 All of my projects are available at [nikhilcodes.tech](nikhilcodes.tech)
+🔭 I’m currently working on React websites!<br>👯 I’m looking to collaborate on Open Source Web Dev Projects <br>🌱 I’m currently learning ReactJS, NodeJS, MongoDB<br>💬 Ask me about Web Development<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug<br>👨‍💻 All of my projects are available at [nikhilcodes.tech](https://nikhilcodes.tech/)
 
 
 ## 🌐 Socials:
