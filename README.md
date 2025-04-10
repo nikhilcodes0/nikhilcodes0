@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on React websites!<br>👯 I’m looking to collaborate on Open Source Web Dev Projects <br>🌱 I’m currently learning ReactJS, NodeJS, MongoDB<br>💬 Ask me about Web Development<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug<br>👨‍💻 All of my projects are available at [nikhilcodes.tech](https://nikhilcodes.tech/)
+🔭 I’m currently working on React websites!<br>👯 I’m looking to collaborate on Open Source Web Dev Projects <br>🌱 I’m currently learning ReactJS, NodeJS, MongoDB<br>💬 Ask me about Web Development<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug<br>👨‍💻 All of my projects are available at [nikhilcodes](https://nikhilcodes.netlify.app/)
 
 
 ## 🌐 Socials:
@@ -30,4 +30,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/NikhilCodes22) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
