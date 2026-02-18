@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on NextJS websites!<br>👯 I’m looking to collaborate on Open Source Web Dev Projects <br>🌱 I’m currently learning NextJS <br>💬 Ask me about Web Development<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug<br>👨‍💻 All of my projects are available at [nikhilcodes](https://nikhilcodes.netlify.app/)
+🔭 I’m currently working on NextJS websites!<br>👯 I’m looking to collaborate on Open Source Web Dev Projects <br>🌱 I’m currently learning NextJS <br>💬 Ask me about Web Development<br>⚡ Fun fact: The first computer “bug” was an actual real-life bug<br>👨‍💻 All of my projects are available at [nikhilcodes](https://n1kh1l.is-a.dev/)
 
 
 ## 🌐 Socials:
